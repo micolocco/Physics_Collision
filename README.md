@@ -11,8 +11,8 @@ Working hypothesis:
 -axial simmetry,
 -vertex coordinates: z from normal distribution with rms=5.3 cm, x and y from norml distribution with rms=0.1 mm
 -Berilium beampipe: radius=3 cm, thickness=0.8 mm; first layer: radius=4 cm, thickness=0.2 mm; second layer: radius=7 cm
--detector extention along z axis=27 cm (acceptance -1<&eta<1 for particles produced in collisions with &sigma<Zvertex<&sigma)                    
--“fast” reconstruction with smearing of collision points: z -> 120 μm r&phi -> 30 μm 
+-detector extention along z axis=27 cm (acceptance -1<&eta;<1 for particles produced in collisions with &sigma;<Zvertex<&sigma;)                    
+-“fast” reconstruction with smearing of collision points: z -> 120 &mu;m r&phi; -> 30 &mu;m 
 -multiple scattering in beampipe and silicon
 
 By micol.olocco@gmail.com, isabella.sanna@edu.unito.it
