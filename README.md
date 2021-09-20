@@ -3,7 +3,7 @@
 In a collider experiment (as LHC), particles collide in a region centered in the origin of a Cartesian coordinate system, where z axis is the direction of the beam.
 The information coming from the vertex detector is later used to define where the interaction happened.
 
-In this project we simulate the collisions and the particles transport in the space to reconstruct the vertex of interaction (z coordinate). By comparing the real and reconstructed positions of the vertex, we define the resolution of the detector under examination (around 180 micrometer).
+In this project we simulate the collisions and the particle transport in the space to reconstruct the vertex of interaction (z coordinate). By comparing the real and reconstructed positions of the vertex, we define the resolution of the detector under examination (around 180 micrometer).
 
 Working hypothesis:
 - vertex detector made of two silicon planes of pixel, coaxial with the beam axis;
