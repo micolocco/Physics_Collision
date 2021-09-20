@@ -1,5 +1,5 @@
-# Physics_Collisions
-### Classroom project realized with Isabella Sanna 
+# Simulation of high energy particle collision
+
 In a collider experiment (as LHC), particles collide in a region centered in the origin of a Cartesian coordinate system, where z axis is the direction of the beam.
 The information coming from the vertex detector is later used to define where the interaction happened.
 
