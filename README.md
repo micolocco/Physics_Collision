@@ -15,4 +15,29 @@ Working hypothesis:
 - “fast” reconstruction with smearing of collision points: z -> 120 &mu;m r&phi; -> 30 &mu;m;
 - multiple scattering in beampipe and layers.
 
-By micol.olocco@gmail.com, isabella.sanna@edu.unito.it
+# The program
+In `ROOT` shell:
+
+1. To compile the classes: 
+```
+.L Experiment.cxx
+```
+```
+Experiment()
+```
+2. To execute the simulation run DoExperiment with arguments the number_of_collisions and multiple_scattering on (1) or off (0). For instance:
+
+```
+DoExperiment(100000, 1)
+```
+3. To reconstruct the vertex:
+```
+ReconstructVertex()
+```
+5. To visualize the results:
+ ```
+ResultsStudy()
+```
+
+
+Authors: micol.olocco@gmail.com, isabella.sanna@edu.unito.it
